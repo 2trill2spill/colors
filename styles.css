@@ -1,0 +1,40 @@
+
+#parent {
+	display: flex;
+}
+
+#color {
+	float: right;
+	margin: 25px;
+	display: block;
+}
+
+#result {
+	float: left;
+	margin: 25px;
+	display: block;
+}
+
+#block1 {
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+}
+
+#block2 {
+	background-color: green;
+	height: 200px;
+	width: 200px;
+}
+
+#block3 {
+	background-color: yellow;
+	height: 200px;
+	width: 200px;
+}
+
+#block4 {
+	background-color: red;
+	height: 200px;
+	width: 200px;
+}
